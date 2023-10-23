@@ -18,5 +18,5 @@ const Kyun2da = NativeModules.Kyun2da
     );
 
 export function multiply(a: number, b: number): Promise<number> {
-  return Kyun2da.multiply(a, b);
+  return Kyun2da.multiply(a, b) + 1;
 }
