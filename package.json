@@ -1,6 +1,6 @@
 {
   "name": "react-native-kyun2da",
-  "version": "0.0.0-development",
+  "version": "0.0.1",
   "description": "react-native-library-publish-test",
   "main": "lib/commonjs/index.js",
   "module": "lib/module/index.js",
@@ -73,9 +73,9 @@
     "react-native": "0.72.6",
     "react-native-builder-bob": "^0.23.1",
     "release-it": "^15.0.0",
+    "semantic-release": "^22.0.5",
     "turbo": "^1.10.7",
-    "typescript": "^5.0.2",
-    "semantic-release": "^22.0.5"
+    "typescript": "^5.0.2"
   },
   "resolutions": {
     "@types/react": "17.0.21"
