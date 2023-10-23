@@ -18,5 +18,11 @@ const Kyun2da = NativeModules.Kyun2da
     );
 
 export function multiply(a: number, b: number): Promise<number> {
-  return Kyun2da.multiply(a, b) + 1;
+  return multiply2(a, b);
+}
+
+async function multiply2(a: number, b: number): Promise<number> {
+  const result = await Kyun2da.multiply(a, b);
+
+  return result + 1;
 }
