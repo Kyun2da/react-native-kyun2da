@@ -1,6 +1,6 @@
 {
   "name": "react-native-kyun2da",
-  "version": "0.0.1",
+  "version": "0.0.0-development",
   "description": "react-native-library-publish-test",
   "main": "lib/commonjs/index.js",
   "module": "lib/module/index.js",
@@ -32,7 +32,8 @@
     "lint": "eslint \"**/*.{js,ts,tsx}\"",
     "clean": "del-cli android/build example/android/build example/android/app/build example/ios/build lib",
     "prepare": "bob build",
-    "release": "release-it"
+    "release": "release-it",
+    "semantic-release": "semantic-release"
   },
   "keywords": [
     "react-native",
@@ -41,7 +42,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Kyun2da/react-native-kyun2da.git"
+    "url": "https://github.com/Kyun2da/react-native-kyun2da.git"
   },
   "author": "Kyun2da <kyun2dot@gmail.com> (https://github.com/Kyun2da)",
   "license": "MIT",
@@ -73,7 +74,8 @@
     "react-native-builder-bob": "^0.23.1",
     "release-it": "^15.0.0",
     "turbo": "^1.10.7",
-    "typescript": "^5.0.2"
+    "typescript": "^5.0.2",
+    "semantic-release": "^22.0.5"
   },
   "resolutions": {
     "@types/react": "17.0.21"
