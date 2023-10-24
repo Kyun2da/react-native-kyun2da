@@ -1,6 +1,6 @@
 {
   "name": "react-native-kyun2da",
-  "version": "2.1.0",
+  "version": "2.2.0",
   "description": "react-native-library-publish-test",
   "main": "lib/commonjs/index.js",
   "module": "lib/module/index.js",
