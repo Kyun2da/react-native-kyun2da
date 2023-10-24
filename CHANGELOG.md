@@ -1,3 +1,10 @@
+# [2.7.0](https://github.com/Kyun2da/react-native-kyun2da/compare/v2.6.0...v2.7.0) (2023-10-24)
+
+
+### Features
+
+* test ([389bf96](https://github.com/Kyun2da/react-native-kyun2da/commit/389bf96eff6b7dc577f41d236e9da9ce584a86b4))
+
 # [2.6.0](https://github.com/Kyun2da/react-native-kyun2da/compare/v2.5.0...v2.6.0) (2023-10-24)
 
 
