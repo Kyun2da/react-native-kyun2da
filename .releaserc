@@ -6,6 +6,16 @@
     "@semantic-release/github"
   ],
   "branches": [
-    "main"
+    {
+      "name": "main"
+    },
+    {
+      "name": "alpha",
+      "prerelease": true
+    },
+    {
+      "name": "beta",
+      "prerelease": true
+    }
   ]
 }
