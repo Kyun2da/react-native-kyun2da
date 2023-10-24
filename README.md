@@ -15,7 +15,7 @@ import { multiply } from 'react-native-kyun2da';
 
 // ...
 
-const result = await multiply(3, 7);
+const result = await multiply(3, 8);
 ```
 
 ## Contributing
