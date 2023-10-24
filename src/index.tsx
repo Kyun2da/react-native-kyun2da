@@ -24,5 +24,5 @@ export function multiply(a: number, b: number): Promise<number> {
 async function multiply2(a: number, b: number): Promise<number> {
   const result = await Kyun2da.multiply(a, b);
 
-  return result + 3;
+  return result + 4;
 }
