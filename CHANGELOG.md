@@ -1,3 +1,10 @@
+# [2.8.0](https://github.com/Kyun2da/react-native-kyun2da/compare/v2.7.0...v2.8.0) (2023-10-24)
+
+
+### Features
+
+* releaserc 메시지 가다듬기 ([f430b3d](https://github.com/Kyun2da/react-native-kyun2da/commit/f430b3d7a250e0b1869dab8eb3cd07ebf308d608))
+
 # [2.7.0](https://github.com/Kyun2da/react-native-kyun2da/compare/v2.6.0...v2.7.0) (2023-10-24)
 
 
