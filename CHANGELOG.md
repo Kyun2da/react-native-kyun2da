@@ -1,3 +1,10 @@
+# [2.6.0](https://github.com/Kyun2da/react-native-kyun2da/compare/v2.5.0...v2.6.0) (2023-10-24)
+
+
+### Features
+
+* markdownReleasenote true ([a9b2af7](https://github.com/Kyun2da/react-native-kyun2da/commit/a9b2af7fef574c1944546799e88d977bc4d190e5))
+
 # [2.5.0](https://github.com/Kyun2da/react-native-kyun2da/compare/v2.4.0...v2.5.0) (2023-10-24)
 
 
